@@ -1,0 +1,7 @@
+# sample 
+num1 = input("Enter a Number: ")
+num2 = input("What number would you like to sum by: ")
+result = int(num1) + (num2)
+
+
+print(result)
