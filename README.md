@@ -1,5 +1,4 @@
 # Sample-Repository
-For tutorial purposes only
     There's a tiny door in that empty  office. It's a portal, Maxine. It  takes you inside John Malkovich.  You see the world through John
 		    Malkovich's eyes, then, after about fifteen minutes, you're spit out into a ditch on the side of The New Jersey  Turnpike.
         
